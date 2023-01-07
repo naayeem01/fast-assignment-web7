@@ -130,6 +130,9 @@ i {
     font-size: 25px;
     color: #737272;
 }
+ .section-title .my-plans-item-icon {
+    align-items: center;
+ }
 
 
     
